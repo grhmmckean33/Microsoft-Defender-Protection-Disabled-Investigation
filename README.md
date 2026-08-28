@@ -6,7 +6,7 @@
 
 **Splunk, Defender and Sysmon correlation around endpoint security-control changes**
 
-[![Live Case Study](https://img.shields.io/badge/Live%20Case%20Study-Open-22c55e?style=for-the-badge)](https://grhmmckean33.github.io/soc-defender-protection-disabled-investigation/) [![PDF Report](https://img.shields.io/badge/PDF%20Report-View-dc2626?style=for-the-badge)](report/SOC_Investigation_Report_Defender_Protection_Disabled.pdf)
+[![Live Case Study](https://img.shields.io/badge/Live%20Case%20Study-Open-22c55e?style=for-the-badge)](https://grhmmckean33.github.io/Microsoft-Defender-Protection-Disabled-Investigation/) [![PDF Report](https://img.shields.io/badge/PDF%20Report-View-dc2626?style=for-the-badge)](report/SOC_Investigation_Report_Defender_Protection_Disabled.pdf)
 
 </div>
 
