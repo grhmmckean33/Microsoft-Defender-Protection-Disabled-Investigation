@@ -20,7 +20,7 @@ A SOC investigation into Microsoft Defender Real-time Protection being disabled.
 | Assessment | **Suspicious - User-associated changes; no confirmed compromise** |
 | Environment | Kerning City Dental (KCD) |
 | MITRE ATT&CK | T1562.001 - Impair Defenses: Disable or Modify Tools |
-| Full case study | **[View GitHub Pages site](https://grhmmckean33.github.io/soc-defender-protection-disabled-investigation/)** |
+| Full case study | **[View GitHub Pages site](https://grhmmckean33.github.io/Microsoft-Defender-Protection-Disabled-Investigation/)** |
 | Investigation report | **[Open PDF](report/SOC_Investigation_Report_Defender_Protection_Disabled.pdf)** |
 
 ## Key findings
